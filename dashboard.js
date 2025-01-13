@@ -24,9 +24,9 @@ about:{ id:'about', css:'col-1-3', data:[
 },
 
 stats:{ id:'stats', css:'col-1-3',data:[
-{id:1,nama:'CLIENTS',isi:25,icon:'eye'},
+{id:1,nama:'evesuther',isi:25,icon:'eye'},
 {id:1,nama:'PROJECTS',isi:10,icon:'camera'},
-{id:1,nama:'POSITIVE FEEDBACKS',isi:10,icon:'geo'},
+{id:1,nama:'POSITIVE FEEDBACKS',isi:10000,icon:'geo'},
 {id:1,nama:'WEBSITE LAUNCH',isi:10,icon:'pen'},
 ],
 },
